@@ -6,6 +6,4 @@
 
 ## Schematic
 
-> This is first minimal version
-
 ![](schematic_midi_controller_teensy.png)

@@ -10,4 +10,6 @@
 
 ## Schematic
 
+> V1
+
 ![](schematic_teensy.png)

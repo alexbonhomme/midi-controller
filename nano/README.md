@@ -1,5 +1,9 @@
 # Midi Controller
 
+## Board
+
+[Arduino Nano](https://docs.arduino.cc/hardware/nano)
+
 ## Dependencies
 
 [Control Surface](https://tttapa.github.io/Control-Surface-doc)
@@ -8,4 +12,4 @@
 
 > This is first minimal version
 
-![](schematic_midi_controller_nano.png)
+![](schematic_nano.png)

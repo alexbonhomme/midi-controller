@@ -8,7 +8,7 @@
 
 - MIDI over USB and DIN
 - USB C connector
-- Battery powered
+- Rechargeable battery powered
 - Gyroscope sensor
 - MIDI over Bluetooth
 
